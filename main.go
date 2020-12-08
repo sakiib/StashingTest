@@ -5,7 +5,7 @@ import (
 )
 
 func add(x, y int) int {
-	return -1
+	return x + y
 }
 
 func sub(x, y int) int {
