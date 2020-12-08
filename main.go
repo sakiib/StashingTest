@@ -9,15 +9,15 @@ func add(x, y int) int {
 }
 
 func sub(x, y int) int {
-	return -1
+	return x - y
 }
 
 func mul(x, y int) int {
-	return -1
+	return x * y
 }
 
 func div(x, y int) int {
-	return -1
+	return x / y
 }
 
 func square(x int) int {
