@@ -28,6 +28,10 @@ func anything() {
 	fmt.Println("...")
 }
 
+func sakibWorks() {
+	fmt.Println("sakib worked here!")
+}
+
 func main() {
 	fmt.Println("Git Stash!")
 }
