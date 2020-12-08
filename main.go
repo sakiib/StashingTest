@@ -17,6 +17,10 @@ func mul(x, y int) int {
 }
 
 func div(x, y int) int {
+	if y == 0 {
+		fmt.Println("denominator can't be zero!")
+		return -1
+	}
 	return x / y
 }
 
@@ -31,7 +35,6 @@ func anything() {
 func sakibWorks() {
 	fmt.Println("sakib worked here!")
 }
-
 
 func doShit() {
 	fmt.Println("some shitty code added!")
