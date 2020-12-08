@@ -24,6 +24,10 @@ func square(x int) int {
 	return x * x
 }
 
+func anything() {
+	fmt.Println("...")
+}
+
 func main() {
 	fmt.Println("Git Stash!")
 }
