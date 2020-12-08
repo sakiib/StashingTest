@@ -32,6 +32,11 @@ func sakibWorks() {
 	fmt.Println("sakib worked here!")
 }
 
+
+func doShit() {
+	fmt.Println("some shitty code added!")
+}
+
 func alaminWorks() {
 	fmt.Println("alamin worked here!")
 }
