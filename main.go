@@ -32,6 +32,10 @@ func sakibWorks() {
 	fmt.Println("sakib worked here!")
 }
 
+func alaminWorks() {
+	fmt.Println("alamin worked here!")
+}
+
 func main() {
 	fmt.Println("Git Stash!")
 }
