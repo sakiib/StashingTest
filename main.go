@@ -32,6 +32,10 @@ func sakibWorks() {
 	fmt.Println("sakib worked here!")
 }
 
+func doShit() {
+	fmt.Println("some shitty code added!")
+}
+
 func main() {
 	fmt.Println("Git Stash!")
 }
